@@ -1,1 +1,11 @@
+EDA/Examen_Saber_11_20211.txt filter=lfs diff=lfs merge=lfs -text
+EDA/Examen_Saber_11_20212.txt filter=lfs diff=lfs merge=lfs -text
+EDA/Examen_Saber_11_20221.txt filter=lfs diff=lfs merge=lfs -text
+EDA/Examen_Saber_11_20222.txt filter=lfs diff=lfs merge=lfs -text
+EDA/Examen_Saber_11_20231.txt filter=lfs diff=lfs merge=lfs -text
+EDA/Examen_Saber_11_20232.txt filter=lfs diff=lfs merge=lfs -text
+EDA/Examen_Saber_11_20241.txt filter=lfs diff=lfs merge=lfs -text
+EDA/Examen_Saber_11_20201.txt filter=lfs diff=lfs merge=lfs -text
+EDA/Examen_Saber_11_20202.txt filter=lfs diff=lfs merge=lfs -text
+EDA/Examen_Saber_11_20242.txt filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
